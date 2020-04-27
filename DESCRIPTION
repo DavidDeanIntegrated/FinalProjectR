@@ -1,0 +1,18 @@
+Package: tfpackage
+Type: Package
+Title: Guests in Tim Ferris Tools of Titans
+Version: 0.0.9
+Author: David Dean <daviddean@usf.edu>
+Maintainer: David Dean <daviddean@usf.edu>
+Description: This package sorts a dataset containing the extensive guest list of 
+    Tim Ferris' book "Tools of Titans." The guest list is divided into 3 main categories: 
+    Healthy (1), Wealthy (2), and Wise (3). This package allows one to more easily browse 
+    through the 112 different guests in a variety of different groupings. One can search 
+    the last name of one of the guests, and that guest's information will appear
+    including a quote from their interview with Tim Ferris. 
+License: GNU
+Encoding: UTF-8
+LazyData: true
+Depends: R(>= 3.6.2)
+Imports: devtools, usethis, roxygen2
+RoxygenNote: 7.1.0
