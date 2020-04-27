@@ -21,7 +21,7 @@ IMPORTANT NOTE#1: The package is dependent on the dataset included in github rep
 ## A picture of a crazy dog. Which is how Covid19 isolation makes me feel.
 
 
-![ ](FinalProjectR/crazydog.png)
+![](crazydog.png)
 
 
 
