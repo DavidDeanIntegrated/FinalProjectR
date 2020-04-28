@@ -13,7 +13,7 @@ My goal for this project was to create a fun, user-friendly package of R code th
 
 ## Datasets and Variables
 
-IMPORTANT NOTE#1: The package is dependent on the dataset included in github repository.Object definitions are listed in sourcefile1. 
+IMPORTANT NOTE#1: The package is dependent on the dataset included in github repository. Object definitions are listed in sourcefile1. 
 
 
 
