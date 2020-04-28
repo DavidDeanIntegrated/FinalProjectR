@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 ```
-
+ 
 
 #### Load the package by using the library function as seen in the code block below:
 ```{r setup}
