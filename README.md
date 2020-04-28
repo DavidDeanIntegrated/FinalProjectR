@@ -3,7 +3,7 @@
 ### David Dean
 ##### 4/27/2020
 
-This package marks the culmination of my final semester in the Masters of Medical , Molecular Medicine program at USF. I took the Introduction to R Programming course because I think that knowing computer coding languages is going to be an increasingly valuable skill in the 21st century. I am happy that this course was not limited to biomedical studies, though I now feel prepared to take a computer programming class that directly applies programming to biomedical studies. 
+This package marks the culmination of my final semester in the Masters of Medical Sciences, Molecular Medicine program at USF. I took the Introduction to R Programming course because I think that knowing computer coding languages is going to be an increasingly valuable skill in the 21st century. I am happy that this course was not limited to biomedical studies, though I now feel prepared to take a computer programming class that directly applies programming to biomedical studies. 
 
 
 
