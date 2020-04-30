@@ -13,7 +13,15 @@ My goal for this project was to create a fun, user-friendly package of R code th
 
 ## Datasets and Variables
 
-IMPORTANT NOTE#1: The package is dependent on the dataset included in github repository. Object definitions are listed in sourcefile1. 
+IMPORTANT NOTE#1: The package is dependent on the dataset included in github repository. Object definitions are listed in sourcefile1.
+
+In order to run this package you should:
+1. Download the free software 'R Studio'.
+2. Download the dataset in the 'Data' folder
+3. Copy all 36 lines of 'sourcefile1' in the 'R Functions' folder and paste into R studio terminal. Click enter.
+4. If you have done everything correctly, a pop up box should appear asking for you to select a file. 
+5. Click on the tim ferris dataset you have previously downloaded.
+6. Follow directions seen in 'my-vignette' in the 'Vignettes folder.
 
 
 
