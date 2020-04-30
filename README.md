@@ -21,7 +21,7 @@ In order to run this package you should:
 3. Copy all 36 lines of 'sourcefile1' in the 'R Functions' folder and paste into R studio terminal. Click enter.
 4. If you have done everything correctly, a pop up box should appear asking for you to select a file. 
 5. Click on the tim ferris dataset you have previously downloaded.
-6. Follow directions seen in 'my-vignette' in the 'Vignettes' folder.
+6. Follow directions seen in 'my-vignette' in the 'Vignettes' folder to interact with dataset.
 
 
 
